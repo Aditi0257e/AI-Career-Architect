@@ -1,0 +1,21 @@
+{
+  "name": "resume-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-pdf/renderer": "^4.3.0",
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0",
+    "tailwindcss": "^4.0.17"
+  }
+}
